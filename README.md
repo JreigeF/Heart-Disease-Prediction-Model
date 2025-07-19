@@ -56,9 +56,9 @@ K-Nearest Neighbors: Tuning n_neighbors and weights
 
 ## Project Structure
 
-├── Iteration_1.ipynb # Full notebook with EDA, ML models, tuning, and DL
-├── heart.csv # Dataset
-└── README.md # Project documentation
+Iteration_1.ipynb # Full notebook with EDA, ML models, tuning, and DL
+heart.csv # Dataset
+README.md # Project documentation
 
 ## Results Summary
 
